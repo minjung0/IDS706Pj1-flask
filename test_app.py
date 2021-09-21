@@ -1,4 +1,4 @@
-from app import change
+from app import changeClass
 
 def test_change():
-    assert [{5: 'quarters'}, {1: 'nickels'}, {4: 'pennies'}] == change(1.34)
+    assert ["Oops, I think it's not a classic MIDS class."] == changeClass('GS726')
