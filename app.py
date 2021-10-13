@@ -11,7 +11,7 @@ def outputAssignment(name):
     elif name == "IDS703":
 #        res = "Markov Text Generation (~Sep 15)"
 #        res = "Part-of-Speech Tagging (~9/22)"
-        res = "Document classification/TF-IDF (~10/11)"
+        res = "Feed-forward neural networks (~10/18)"
     elif name == "IDS706":
 #        res = "Module Four Discussion (~Sep 15), Demo Video Assignment (~Sep 17)"
 #        res = "Module Four Discussion (~9/22), Demo Video Assignment (~9/24)"
