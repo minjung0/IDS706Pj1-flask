@@ -15,8 +15,8 @@ def outputAssignment(name):
     elif name == "IDS706":
 #        res = "Module Four Discussion (~Sep 15), Demo Video Assignment (~Sep 17)"
 #        res = "Module Four Discussion (~9/22), Demo Video Assignment (~9/24)"
-#        res = "Module Eight Discussion (~10/13), Demo Video Assignment (~10/15)"
-        res = "I hope there are no assignments!"
+        res = "Module Eight Discussion (~10/13), Demo Video Assignment (~10/15)"
+#        res = "I hope there are no assignments!"
     elif name == "IDS720":
 #        res = "Pandas Series (~Sep 14), Dataframe Exercises (~Sep 16)"
 #        res = "Missing Values Exercises (~9/21), Github Exercises 1 (~9/21)"
